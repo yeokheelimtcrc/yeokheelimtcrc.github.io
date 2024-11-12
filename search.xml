@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/08/07/hello-world/</url>
-    <content><![CDATA[<p>this is just a test message.<br>这仅是一条测试信息。</p>
-<p><img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003713_OperaMovie_LGL_WM.jpg" alt="test for photo" title="test for photo"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>澄海县志通讯 198601</title>
     <url>/2024/11/12/CHENGHAIXIANZHITONGXUN198601/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/11/12/agBwMA3NSRhO6Gx.png"></p>
@@ -15,7 +8,7 @@
 
 <p>目录</p>
 <p><img src="https://s2.loli.net/2024/11/12/h6BgVLvspdl3q8Z.png" alt="目录"></p>
-<p>![点击下载文件](&#x2F;download&#x2F;澄海县志通讯 198601.pdf)</p>
+<p><a href="/download/thgzts198601.pdf">点击下载文件</a></p>
 ]]></content>
       <tags>
         <tag>地方文史</tag>
@@ -1908,6 +1901,13 @@
 <td>无关系的报纸</td>
 </tr>
 </tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/08/07/hello-world/</url>
+    <content><![CDATA[<p>this is just a test message.<br>这仅是一条测试信息。</p>
+<p><img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003713_OperaMovie_LGL_WM.jpg" alt="test for photo" title="test for photo"></p>
 ]]></content>
   </entry>
 </search>
