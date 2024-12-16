@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/08/07/hello-world/</url>
-    <content><![CDATA[<p>this is just a test message.<br>这仅是一条测试信息。</p>
-<p><img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003713_OperaMovie_LGL_WM.jpg" alt="test for photo" title="test for photo"></p>
+    <title>澄海县志通讯 198601</title>
+    <url>//CHENGHAIXIANZHITONGXUN198601/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/11/12/agBwMA3NSRhO6Gx.png"></p>
+<span id="more"></span>
+
+<p>目录</p>
+<p><img src="https://s2.loli.net/2024/11/12/h6BgVLvspdl3q8Z.png" alt="目录"></p>
+<p><a href="/download/thgzts198601.pdf">点击下载文件</a></p>
 ]]></content>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
   </entry>
   <entry>
     <title>A5</title>
-    <url>/2024/12/10/A5/</url>
+    <url>//A5/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>storage-list</title>
-    <url>/2024/08/08/storage-list/</url>
+    <url>//storage-list/</url>
     <content><![CDATA[<table>
 <thead>
 <tr>
@@ -1902,17 +1909,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>澄海县志通讯 198601</title>
-    <url>/2024/11/12/CHENGHAIXIANZHITONGXUN198601/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/11/12/agBwMA3NSRhO6Gx.png"></p>
-<span id="more"></span>
-
-<p>目录</p>
-<p><img src="https://s2.loli.net/2024/11/12/h6BgVLvspdl3q8Z.png" alt="目录"></p>
-<p><a href="/download/thgzts198601.pdf">点击下载文件</a></p>
+    <title>Hello World</title>
+    <url>//hello-world/</url>
+    <content><![CDATA[<p>this is just a test message.<br>这仅是一条测试信息。</p>
+<p><img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003713_OperaMovie_LGL_WM.jpg" alt="test for photo" title="test for photo"></p>
 ]]></content>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
   </entry>
 </search>
