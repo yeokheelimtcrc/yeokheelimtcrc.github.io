@@ -1,86 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>A1001</title>
-    <url>//A1001/</url>
-    <content><![CDATA[<center>方修编著资料辑录</center>
-<center>Compiled Works by Fang Xiu</center>
-
-<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL001108_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">索引 Index</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">何炳彪 梁彗群 (主编)  Ho Phang Phow, Liang Huiqun (Editor-in-Chief)</td>
-</tr>
-<tr>
-<td align="left"><strong>出版单位 Publisher</strong></td>
-<td align="right">新加坡国家图书馆 National Library Board</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2008</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.com/wp-content/uploads/2021/07/YKL001108_Contents_WM-min.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL001108</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">潮籍人物 Teochew People</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p> 方修1922年出生于潮州潮安县，1938年南来新加坡，是新加坡著名的文史学家、作家，更是新华文学的奠基人之一。本书由国家图书馆编辑出版，辑录方修主要著作和研究，并附上内容摘要和目录等基本信息供读者参考，为后人研究新华文学提供清晰的索引。</p>
-</blockquote>
-<blockquote>
-<p>Fang Xiu was born in Teo Ann County, Teochew in 1922 and came to Singapore in 1938. He is a famous Singaporean historian, writer and one of the founders of Chinese literature in Singapore. The book edited and published by the National Library Board, compiles Fang Xiu’s major works and related research, and provides basic information such as content summaries and catalogs for readers’ reference, providing a clear index to study Chinese literature in Singapore.</p>
-</blockquote>
-</div>
-]]></content>
-      <categories>
-        <category>A1</category>
-      </categories>
-      <tags>
-        <tag>索引</tag>
-        <tag>潮籍人物</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A1003 汕头文物 11</title>
     <url>//A1003/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003804_WM.jpg" width="50%" height="50%" />
@@ -228,6 +148,86 @@
       </tags>
   </entry>
   <entry>
+    <title>A1001</title>
+    <url>//A1001/</url>
+    <content><![CDATA[<center>方修编著资料辑录</center>
+<center>Compiled Works by Fang Xiu</center>
+
+<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL001108_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">索引 Index</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">何炳彪 梁彗群 (主编)  Ho Phang Phow, Liang Huiqun (Editor-in-Chief)</td>
+</tr>
+<tr>
+<td align="left"><strong>出版单位 Publisher</strong></td>
+<td align="right">新加坡国家图书馆 National Library Board</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">2008</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.com/wp-content/uploads/2021/07/YKL001108_Contents_WM-min.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL001108</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">潮籍人物 Teochew People</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p> 方修1922年出生于潮州潮安县，1938年南来新加坡，是新加坡著名的文史学家、作家，更是新华文学的奠基人之一。本书由国家图书馆编辑出版，辑录方修主要著作和研究，并附上内容摘要和目录等基本信息供读者参考，为后人研究新华文学提供清晰的索引。</p>
+</blockquote>
+<blockquote>
+<p>Fang Xiu was born in Teo Ann County, Teochew in 1922 and came to Singapore in 1938. He is a famous Singaporean historian, writer and one of the founders of Chinese literature in Singapore. The book edited and published by the National Library Board, compiles Fang Xiu’s major works and related research, and provides basic information such as content summaries and catalogs for readers’ reference, providing a clear index to study Chinese literature in Singapore.</p>
+</blockquote>
+</div>
+]]></content>
+      <categories>
+        <category>A1</category>
+      </categories>
+      <tags>
+        <tag>索引</tag>
+        <tag>潮籍人物</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A1004 新加坡华乐节 2021</title>
     <url>//A1004/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004701_WM.jpg" width="50%" height="50%" />
@@ -298,147 +298,6 @@
       <tags>
         <tag>艺术</tag>
         <tag>音乐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A1006 潮学通讯 • 2006年第2期 (总第33期)</title>
-    <url>//A1006/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004715_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">会讯 Correspondence</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">潮汕历史文化研究中心 Chaoshan History and Culture Research Center</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">潮汕历史文化研究中心 Chaoshan History and Culture Research Center</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2006</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-152255-70.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004715</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>
-
-]]></content>
-      <categories>
-        <category>A1</category>
-      </categories>
-      <tags>
-        <tag>会讯</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A1007 潮州沈氏联合会特刊（平装）</title>
-    <url>//A1007/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004717_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">特刊 Special Issue</td>
-</tr>
-<tr>
-<td align="left"><strong>主编 Chief Editor</strong></td>
-<td align="right">沈时霖 Sim See Lim</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">新加坡潮州沈氏联合会 Singapore Teochew Sim Clan Association</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1958</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-154143-97.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004717</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>
-]]></content>
-      <categories>
-        <category>A1</category>
-      </categories>
-      <tags>
-        <tag>会讯</tag>
       </tags>
   </entry>
   <entry>
@@ -515,6 +374,76 @@
       </tags>
   </entry>
   <entry>
+    <title>A1007 潮州沈氏联合会特刊（平装）</title>
+    <url>//A1007/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004717_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">特刊 Special Issue</td>
+</tr>
+<tr>
+<td align="left"><strong>主编 Chief Editor</strong></td>
+<td align="right">沈时霖 Sim See Lim</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">新加坡潮州沈氏联合会 Singapore Teochew Sim Clan Association</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1958</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-154143-97.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004717</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>
+]]></content>
+      <categories>
+        <category>A1</category>
+      </categories>
+      <tags>
+        <tag>会讯</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A1008 潮州沈氏联合会特刊（精装）</title>
     <url>//A1008/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004717_WM.jpg" width="50%" height="50%" />
@@ -576,6 +505,77 @@
 </tr>
 </tbody></table>
 </div>
+]]></content>
+      <categories>
+        <category>A1</category>
+      </categories>
+      <tags>
+        <tag>会讯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A1006 潮学通讯 • 2006年第2期 (总第33期)</title>
+    <url>//A1006/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004715_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">会讯 Correspondence</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">潮汕历史文化研究中心 Chaoshan History and Culture Research Center</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">潮汕历史文化研究中心 Chaoshan History and Culture Research Center</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">2006</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-152255-70.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004715</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>
+
 ]]></content>
       <categories>
         <category>A1</category>
@@ -658,6 +658,148 @@
       </tags>
   </entry>
   <entry>
+    <title>A1011 亚洲周刊</title>
+    <url>//A1011/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004722_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">杂志 Magazine</td>
+</tr>
+<tr>
+<td align="left"><strong>主编 Editor-in-Chief</strong></td>
+<td align="right">邱立本 Qiu Liben</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">亚洲周刊有限公司 Yazhou Zhoukan Limited</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1993</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-160246-14.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004722</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">封面系李嘉诚 Li Ka-shing is on the cover page</td>
+</tr>
+</tbody></table>
+</div>
+
+
+
+]]></content>
+      <categories>
+        <category>A1</category>
+      </categories>
+      <tags>
+        <tag>杂志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A1012 潮州乡音 • 2019年第二期 (总207期)</title>
+    <url>//A1012/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004723_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">杂志 Magazine</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">《潮州乡音》编辑部 Editorial Team of Chao Zhou Xiang Yin</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">潮州市归国华侨联合会 Chaozhou Returned Overseas Chinese Federation</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">2019</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-160711-71.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004723</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A1</category>
+      </categories>
+      <tags>
+        <tag>杂志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A1009 潮学通讯 • 2006年第1期 (总第32期)</title>
     <url>//A1009/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004720_WM.jpg" width="50%" height="50%" />
@@ -729,9 +871,9 @@
       </tags>
   </entry>
   <entry>
-    <title>A1011 亚洲周刊</title>
-    <url>//A1011/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004722_WM.jpg" width="50%" height="50%" />
+    <title>A1014 潮人 • 2020年第3期 (总第99期)</title>
+    <url>//A1014/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004731_WM.jpg" width="50%" height="50%" />
 
 <span id="more"></span>
 
@@ -762,19 +904,19 @@
 </tr>
 <tr>
 <td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">邱立本 Qiu Liben</td>
+<td align="right">谢娇兰 Xie Jiaolan</td>
 </tr>
 <tr>
 <td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">亚洲周刊有限公司 Yazhou Zhoukan Limited</td>
+<td align="right">潮人杂志社 Chaoren Magazine</td>
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1993</td>
+<td align="right">2020</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-160246-14.pdf">点击查阅 Click to view</a></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-170032-60.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -782,16 +924,14 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004722</td>
+<td align="right">YKL004731</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">封面系李嘉诚 Li Ka-shing is on the cover page</td>
+<td align="right">N.A.</td>
 </tr>
 </tbody></table>
 </div>
-
-
 
 ]]></content>
       <categories>
@@ -871,146 +1011,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A1012 潮州乡音 • 2019年第二期 (总207期)</title>
-    <url>//A1012/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004723_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">杂志 Magazine</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">《潮州乡音》编辑部 Editorial Team of Chao Zhou Xiang Yin</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">潮州市归国华侨联合会 Chaozhou Returned Overseas Chinese Federation</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2019</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-160711-71.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004723</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A1</category>
-      </categories>
-      <tags>
-        <tag>杂志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A1014 潮人 • 2020年第3期 (总第99期)</title>
-    <url>//A1014/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004731_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">杂志 Magazine</td>
-</tr>
-<tr>
-<td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">谢娇兰 Xie Jiaolan</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">潮人杂志社 Chaoren Magazine</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2020</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-170032-60.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004731</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>
-
-]]></content>
-      <categories>
-        <category>A1</category>
-      </categories>
-      <tags>
-        <tag>杂志</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A1015 潮人 • 2020年第4期 (总第100期)</title>
     <url>//A1015/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004732_WM.jpg" width="50%" height="50%" />
@@ -1080,78 +1080,6 @@
       </categories>
       <tags>
         <tag>杂志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A1016 汕头市政 • 第二期 • 第二届各界人民代表会议特辑 (平装)</title>
-    <url>//A1016/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004734_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">历史 History 文献 Document</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">汕头市人民政府秘书室 Shantou People’s Government Secretariat</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">汕头市人民政府秘书室 Shantou People’s Government Secretariat</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1950</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-170807-34.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004734</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>
-
-]]></content>
-      <categories>
-        <category>A1</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
-        <tag>文献</tag>
       </tags>
   </entry>
   <entry>
@@ -1302,9 +1230,10 @@
       </tags>
   </entry>
   <entry>
-    <title>A1019 上埭村志</title>
-    <url>//A1019/</url>
-    <content><![CDATA[<p>封面待上传 Cover page to be uploaded…<img src="" width="50%" height="50%" /></p>
+    <title>A1016 汕头市政 • 第二期 • 第二届各界人民代表会议特辑 (平装)</title>
+    <url>//A1016/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004734_WM.jpg" width="50%" height="50%" />
+
 <span id="more"></span>
 
 <style>
@@ -1330,23 +1259,23 @@
 </thead>
 <tbody><tr>
 <td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">文献 - 地方志 Document - Local Chronicles</td>
+<td align="right">历史 History 文献 Document</td>
 </tr>
 <tr>
-<td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">黄桂华 Huang Guihua</td>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">汕头市人民政府秘书室 Shantou People’s Government Secretariat</td>
 </tr>
 <tr>
 <td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">汕头市五蕴文化传播有限公司 Shantou Wuyun Culture Communication Co., Ltd.</td>
+<td align="right">汕头市人民政府秘书室 Shantou People’s Government Secretariat</td>
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2022</td>
+<td align="right">1950</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right">待上传 To be uploaded…</td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241223-170807-34.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -1354,24 +1283,22 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL007024</td>
+<td align="right">YKL004734</td>
 </tr>
 <tr>
-<td align="left"><strong>备注 Remark</strong></td>
-<td align="right">李志贤教授作序 Prof. Lee Chee Hiang wrote the preface</td>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
 </tr>
 </tbody></table>
 </div>
-
-
 
 ]]></content>
       <categories>
         <category>A1</category>
       </categories>
       <tags>
+        <tag>历史</tag>
         <tag>文献</tag>
-        <tag>地方志</tag>
       </tags>
   </entry>
   <entry>
@@ -1449,10 +1376,9 @@
       </tags>
   </entry>
   <entry>
-    <title>A2002 惠来文史 第8辑 • 委员风采</title>
-    <url>//A2002/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005245_WM.jpg" width="50%" height="50%" />
-
+    <title>A1019 上埭村志</title>
+    <url>//A1019/</url>
+    <content><![CDATA[<p>封面待上传 Cover page to be uploaded…<img src="" width="50%" height="50%" /></p>
 <span id="more"></span>
 
 <style>
@@ -1478,45 +1404,48 @@
 </thead>
 <tbody><tr>
 <td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
+<td align="right">文献 - 地方志 Document - Local Chronicles</td>
 </tr>
 <tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">政协惠来县委员会学习文史工作委员会 Huilai County CPPCC Committee Study and History Working Committee</td>
+<td align="left"><strong>主编 Editor-in-Chief</strong></td>
+<td align="right">黄桂华 Huang Guihua</td>
 </tr>
 <tr>
 <td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协惠来县文史资料征集研究委员会 Huilai County Political Consultative Conference Cultural and Historical Materials Collection and Research Committee</td>
+<td align="right">汕头市五蕴文化传播有限公司 Shantou Wuyun Culture Communication Co., Ltd.</td>
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1998</td>
+<td align="right">2022</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241224-110623-91.pdf">点击查阅 Click to view</a></td>
+<td align="right">待上传 To be uploaded…</td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A2/">A2</a></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A1/">A1</a></td>
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005245</td>
+<td align="right">YKL007024</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remark</strong></td>
-<td align="right">N.A.</td>
+<td align="right">李志贤教授作序 Prof. Lee Chee Hiang wrote the preface</td>
 </tr>
 </tbody></table>
 </div>
 
+
+
 ]]></content>
       <categories>
-        <category>A2</category>
+        <category>A1</category>
       </categories>
       <tags>
-        <tag>地方文史</tag>
+        <tag>文献</tag>
+        <tag>地方志</tag>
       </tags>
   </entry>
   <entry>
@@ -1582,6 +1511,77 @@
 </tbody></table>
 </div>
 
+
+]]></content>
+      <categories>
+        <category>A2</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A2002 惠来文史 第8辑 • 委员风采</title>
+    <url>//A2002/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005245_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">政协惠来县委员会学习文史工作委员会 Huilai County CPPCC Committee Study and History Working Committee</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">政协惠来县文史资料征集研究委员会 Huilai County Political Consultative Conference Cultural and Historical Materials Collection and Research Committee</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1998</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241224-110623-91.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A2/">A2</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL005245</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remark</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>
 
 ]]></content>
       <categories>
@@ -1947,78 +1947,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A2009 南澳县文物志</title>
-    <url>//A2009/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005252_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">南澳县文物普查办公室 Nan’ao County Cultural Relics Survey Office</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">南澳县文物普查办公室 Nan’ao County Cultural Relics Survey Office</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1985</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241224-112022-75.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A2/">A2</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005252</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remark</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>
-
-
-]]></content>
-      <categories>
-        <category>A2</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A2008 惠来文物志</title>
     <url>//A2008/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005251_WM.jpg" width="50%" height="50%" />
@@ -2092,9 +2020,9 @@
       </tags>
   </entry>
   <entry>
-    <title>A2010 南澳文史《海峡两岸》专辑</title>
-    <url>//A2010/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005253_WM.jpg" width="50%" height="50%" />
+    <title>A2009 南澳县文物志</title>
+    <url>//A2009/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005252_WM.jpg" width="50%" height="50%" />
 
 <span id="more"></span>
 
@@ -2125,19 +2053,19 @@
 </tr>
 <tr>
 <td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">广东省南澳县政协文史委员会 Cultural and Historical Committee of the Nan’ao County CPPCC of Guangdong Province</td>
+<td align="right">南澳县文物普查办公室 Nan’ao County Cultural Relics Survey Office</td>
 </tr>
 <tr>
 <td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">广东省南澳县政协文史委员会 Cultural and Historical Committee of the Nan’ao County CPPCC of Guangdong Province</td>
+<td align="right">南澳县文物普查办公室 Nan’ao County Cultural Relics Survey Office</td>
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1991</td>
+<td align="right">1985</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241224-112345-88.pdf">点击查阅 Click to view</a></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241224-112022-75.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -2145,7 +2073,7 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005253</td>
+<td align="right">YKL005252</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remark</strong></td>
@@ -2153,7 +2081,6 @@
 </tr>
 </tbody></table>
 </div>
-
 
 
 ]]></content>
@@ -2299,6 +2226,152 @@
 </tr>
 </tbody></table>
 </div>
+
+
+]]></content>
+      <categories>
+        <category>A2</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A2014 潮海关史料汇编</title>
+    <url>//A2014/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005282_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">中国海关学会汕头海关小组 Shantou Customs Group of China Customs Society 汕头市地方志编纂委员会办公室 Shantou Local Chronicles Compilation Committee Office</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">汕头市地方志编纂委员会办公室 Shantou Local Chronicles Compilation Committee Office</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1988</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241224-113018-25.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A2/">A2</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL005282</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remark</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>
+
+
+
+]]></content>
+      <categories>
+        <category>A2</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A2010 南澳文史《海峡两岸》专辑</title>
+    <url>//A2010/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005253_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">广东省南澳县政协文史委员会 Cultural and Historical Committee of the Nan’ao County CPPCC of Guangdong Province</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">广东省南澳县政协文史委员会 Cultural and Historical Committee of the Nan’ao County CPPCC of Guangdong Province</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1991</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241224-112345-88.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A2/">A2</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL005253</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remark</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>
+
 
 
 ]]></content>
@@ -2525,79 +2598,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A2014 潮海关史料汇编</title>
-    <url>//A2014/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005282_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">中国海关学会汕头海关小组 Shantou Customs Group of China Customs Society 汕头市地方志编纂委员会办公室 Shantou Local Chronicles Compilation Committee Office</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">汕头市地方志编纂委员会办公室 Shantou Local Chronicles Compilation Committee Office</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1988</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20241224-113018-25.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A2/">A2</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005282</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remark</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>
-
-
-
-]]></content>
-      <categories>
-        <category>A2</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A3004 弟喂做人阿甲阿甲就好</title>
     <url>//A3004/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL001768_WM.jpg" width="50%" height="50%" />
@@ -2815,6 +2815,76 @@
       </tags>
   </entry>
   <entry>
+    <title>A3008 南华潮剧社56周年：潮流艺行 鼓动新声</title>
+    <url>//A3008/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003623_NHB_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">纪念特刊 Memorial Publications</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">南华潮剧社 Nam Hwa Opera</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">南华潮剧社 Nam Hwa Opera</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">2019</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content</strong></td>
+<td align="right">无 Not Available</td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A3/">A3</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL003623</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>
+]]></content>
+      <categories>
+        <category>A3</category>
+      </categories>
+      <tags>
+        <tag>纪念特刊</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A3007 The Incredible Basket</title>
     <url>//A3007/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003604_WM.jpg" width="50%" height="50%" />
@@ -2886,76 +2956,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A3008 南华潮剧社56周年：潮流艺行 鼓动新声</title>
-    <url>//A3008/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003623_NHB_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">纪念特刊 Memorial Publications</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">南华潮剧社 Nam Hwa Opera</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">南华潮剧社 Nam Hwa Opera</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2019</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content</strong></td>
-<td align="right">无 Not Available</td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A3/">A3</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL003623</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>
-]]></content>
-      <categories>
-        <category>A3</category>
-      </categories>
-      <tags>
-        <tag>纪念特刊</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A3009 穿越戏曲世界</title>
     <url>//A3009/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003743_ExploringWorldofOpera_WM.jpg" width="50%" height="50%" />
@@ -3021,77 +3021,6 @@
         <category>A3</category>
       </categories>
       <tags>
-        <tag>绘本</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A3010 The Marvellous Sugee Cake</title>
-    <url>//A3010/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003746_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">文学 literature 绘本 Picture Books</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">郭宏驯 Quek Hong Shin</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">Epigram Books</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2019</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content</strong></td>
-<td align="right">无 Not Available</td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A3/">A3</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL003646</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">作者是潮州人 Author is Teochew</td>
-</tr>
-</tbody></table>
-</div>
-]]></content>
-      <categories>
-        <category>A3</category>
-      </categories>
-      <tags>
-        <tag>文学</tag>
         <tag>绘本</tag>
       </tags>
   </entry>
@@ -3168,6 +3097,77 @@
       </tags>
   </entry>
   <entry>
+    <title>A3010 The Marvellous Sugee Cake</title>
+    <url>//A3010/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL003746_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">文学 literature 绘本 Picture Books</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">郭宏驯 Quek Hong Shin</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">Epigram Books</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">2019</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content</strong></td>
+<td align="right">无 Not Available</td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A3/">A3</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL003646</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">作者是潮州人 Author is Teochew</td>
+</tr>
+</tbody></table>
+</div>
+]]></content>
+      <categories>
+        <category>A3</category>
+      </categories>
+      <tags>
+        <tag>文学</tag>
+        <tag>绘本</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A3012 南洋文献叙录长编</title>
     <url>//A3012/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005425_WM.jpg" width="50%" height="50%" />
@@ -3222,6 +3222,76 @@
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
 <td align="right">YKL005425</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>
+]]></content>
+      <categories>
+        <category>A3</category>
+      </categories>
+      <tags>
+        <tag>索引</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A3013 中外关系参考书目</title>
+    <url>//A3013/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005426_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">索引 Index</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">中国历史博物馆通史图书资料室 General History Library of China History Museum</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">中国历史博物馆通史图书资料室 General History Library of China History Museum</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1977</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content</strong></td>
+<td align="right">无 Not Available</td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A3/">A3</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL005426</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -3308,76 +3378,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A3013 中外关系参考书目</title>
-    <url>//A3013/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005426_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">索引 Index</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">中国历史博物馆通史图书资料室 General History Library of China History Museum</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">中国历史博物馆通史图书资料室 General History Library of China History Museum</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1977</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content</strong></td>
-<td align="right">无 Not Available</td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A3/">A3</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005426</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>
-]]></content>
-      <categories>
-        <category>A3</category>
-      </categories>
-      <tags>
-        <tag>索引</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A3016 南华潮剧社年度大戏：龙井渡头</title>
     <url>//A3016/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005451_WM.jpg" width="50%" height="50%" />
@@ -3445,6 +3445,76 @@
       </categories>
       <tags>
         <tag>宣传资料</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A4002 潮事书札集</title>
+    <url>//A4002/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004446_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">文学 Literature</td>
+</tr>
+<tr>
+<td align="left"><strong>主编 Editor-in-Chief</strong></td>
+<td align="right">徐光华 Xu Guang Hua</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">揭阳市潮学杂志社编辑部 Jieyang Teochew Study Magazine Editorial Team</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">2000</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-143722-37.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004446</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>
+]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>文学</tag>
       </tags>
   </entry>
   <entry>
@@ -3585,76 +3655,6 @@
       </categories>
       <tags>
         <tag>索引</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A4002 潮事书札集</title>
-    <url>//A4002/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004446_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">文学 Literature</td>
-</tr>
-<tr>
-<td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">徐光华 Xu Guang Hua</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">揭阳市潮学杂志社编辑部 Jieyang Teochew Study Magazine Editorial Team</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2000</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-143722-37.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004446</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>
-]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>文学</tag>
       </tags>
   </entry>
   <entry>
@@ -4211,6 +4211,75 @@
       </tags>
   </entry>
   <entry>
+    <title>A4013 潮州文史资料第六辑</title>
+    <url>//A4013/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004834_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">政协潮州市文史资料征集编写委员会 The CPPCC Chaozhou City Historical and Cultural Materials Collection and Compilation Committee</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">政协潮州市文史资料征集编写委员会 The CPPCC Chaozhou City Historical and Cultural Materials Collection and Compilation Committee</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1987</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-153829-92.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004834</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A4012 潮州文史资料第五辑</title>
     <url>//A4012/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004833_WM.jpg" width="50%" height="50%" />
@@ -4334,75 +4403,6 @@
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
 <td align="right">YKL004835</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A4013 潮州文史资料第六辑</title>
-    <url>//A4013/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004834_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">政协潮州市文史资料征集编写委员会 The CPPCC Chaozhou City Historical and Cultural Materials Collection and Compilation Committee</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协潮州市文史资料征集编写委员会 The CPPCC Chaozhou City Historical and Cultural Materials Collection and Compilation Committee</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1987</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-153829-92.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004834</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -4625,75 +4625,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A4019 潮州文史资料第十二辑</title>
-    <url>//A4019/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004840_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1994</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-154722-33.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004840</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A4018 潮州文史资料第十一辑</title>
     <url>//A4018/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004839_WM.jpg" width="50%" height="50%" />
@@ -4763,75 +4694,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A4020 潮州文史资料第十三辑</title>
-    <url>//A4020/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004841_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1994</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-155152-98.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004841</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A4021 潮州文史资料第14辑</title>
     <url>//A4021/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004842_WM.jpg" width="50%" height="50%" />
@@ -4886,6 +4748,75 @@
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
 <td align="right">YKL004842</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A4020 潮州文史资料第十三辑</title>
+    <url>//A4020/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004841_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1994</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-155152-98.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004841</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -5108,9 +5039,9 @@
       </tags>
   </entry>
   <entry>
-    <title>A4026 潮州文史资料第19辑</title>
-    <url>//A4026/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004852_WM.jpg" width="50%" height="50%" />
+    <title>A4019 潮州文史资料第十二辑</title>
+    <url>//A4019/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004840_WM.jpg" width="50%" height="50%" />
 
 <span id="more"></span>
 
@@ -5149,11 +5080,11 @@
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1999</td>
+<td align="right">1994</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-155935-42.pdf">点击查阅 Click to view</a></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-154722-33.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -5161,7 +5092,7 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004852</td>
+<td align="right">YKL004840</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -5246,6 +5177,75 @@
       </tags>
   </entry>
   <entry>
+    <title>A4026 潮州文史资料第19辑</title>
+    <url>//A4026/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004852_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1999</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-155935-42.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004852</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A4027 潮州文史资料第20辑</title>
     <url>//A4027/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004853_WM.jpg" width="50%" height="50%" />
@@ -5300,6 +5300,75 @@
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
 <td align="right">YKL004853</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A4030 潮州文史资料第23辑</title>
+    <url>//A4030/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004856_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">2003</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-160715-41.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004856</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -5453,9 +5522,9 @@
       </tags>
   </entry>
   <entry>
-    <title>A4030 潮州文史资料第23辑</title>
-    <url>//A4030/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004856_WM.jpg" width="50%" height="50%" />
+    <title>A4031 潮州文史资料第24辑</title>
+    <url>//A4031/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004857_WM.jpg" width="50%" height="50%" />
 
 <span id="more"></span>
 
@@ -5494,11 +5563,11 @@
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2003</td>
+<td align="right">2004</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-160715-41.pdf">点击查阅 Click to view</a></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-160918-78.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -5506,7 +5575,7 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004856</td>
+<td align="right">YKL004857</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -5660,144 +5729,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A4031 潮州文史资料第24辑</title>
-    <url>//A4031/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004857_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2004</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-160918-78.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004857</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A4035 潮州文史资料第28辑</title>
-    <url>//A4035/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004861_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2008</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-162257-28.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004861</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A4034 潮州文史资料第27辑</title>
     <url>//A4034/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004860_WM.jpg" width="50%" height="50%" />
@@ -5867,9 +5798,9 @@
       </tags>
   </entry>
   <entry>
-    <title>A4038 榕城文史 6</title>
-    <url>//A4038/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004885_WM.jpg" width="50%" height="50%" />
+    <title>A4035 潮州文史资料第28辑</title>
+    <url>//A4035/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004861_WM.jpg" width="50%" height="50%" />
 
 <span id="more"></span>
 
@@ -5899,20 +5830,20 @@
 <td align="right">地方文史 Local History</td>
 </tr>
 <tr>
-<td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">林正山 Lin Zheng Shan</td>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
 </tr>
 <tr>
 <td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协揭阳市榕城区第二届委员会 The Second Committee of the CPPCC Jieyang City Rongcheng District</td>
+<td align="right">政协潮州市委员会文史编辑组 The CPPCC Chaozhou City Cultural and Historical Editorial Group</td>
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2001</td>
+<td align="right">2008</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-163203-88.pdf">点击查阅 Click to view</a></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-162257-28.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -5920,7 +5851,7 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004885</td>
+<td align="right">YKL004861</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -6074,6 +6005,75 @@
       </tags>
   </entry>
   <entry>
+    <title>A4038 榕城文史 6</title>
+    <url>//A4038/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004885_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>主编 Editor-in-Chief</strong></td>
+<td align="right">林正山 Lin Zheng Shan</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">政协揭阳市榕城区第二届委员会 The Second Committee of the CPPCC Jieyang City Rongcheng District</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">2001</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-163203-88.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004885</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A4040 榕城文史 2</title>
     <url>//A4040/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004887_WM.jpg" width="50%" height="50%" />
@@ -6128,75 +6128,6 @@
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
 <td align="right">YKL004887</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A4041 榕城文史 3</title>
-    <url>//A4041/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004888_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">张裕坚 Zhang Yu Jian</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协揭阳市榕城区文史编辑部 Jieyang City Rongcheng District Cultural and Historical Editorial Department of the CPPCC</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1995</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-163949-48.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004888</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -6281,9 +6212,9 @@
       </tags>
   </entry>
   <entry>
-    <title>A4042 榕城文史 4</title>
-    <url>//A4042/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004889_WM.jpg" width="50%" height="50%" />
+    <title>A4041 榕城文史 3</title>
+    <url>//A4041/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004888_WM.jpg" width="50%" height="50%" />
 
 <span id="more"></span>
 
@@ -6314,19 +6245,19 @@
 </tr>
 <tr>
 <td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">卢安银 Lu An Yin</td>
+<td align="right">张裕坚 Zhang Yu Jian</td>
 </tr>
 <tr>
 <td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协揭阳市榕城区第二届委员会 The Second Committee of the CPPCC Jieyang City Rongcheng District</td>
+<td align="right">政协揭阳市榕城区文史编辑部 Jieyang City Rongcheng District Cultural and Historical Editorial Department of the CPPCC</td>
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1998</td>
+<td align="right">1995</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-164646-44.pdf">点击查阅 Click to view</a></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-163949-48.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -6334,76 +6265,7 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004889</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A4043 榕城文史 5</title>
-    <url>//A4043/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004890_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">卢安银 Lu An Yin</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">政协揭阳市榕城区第二届委员会 The Second Committee of the CPPCC Jieyang City Rongcheng District</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1999</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-165044-31.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004890</td>
+<td align="right">YKL004888</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -6488,6 +6350,75 @@
       </tags>
   </entry>
   <entry>
+    <title>A4042 榕城文史 4</title>
+    <url>//A4042/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004889_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>主编 Editor-in-Chief</strong></td>
+<td align="right">卢安银 Lu An Yin</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">政协揭阳市榕城区第二届委员会 The Second Committee of the CPPCC Jieyang City Rongcheng District</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1998</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-164646-44.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004889</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A4045 饶平史学 第1期</title>
     <url>//A4045/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004911_WM.jpg" width="50%" height="50%" />
@@ -6542,6 +6473,75 @@
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
 <td align="right">YKL004911</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A4043 榕城文史 5</title>
+    <url>//A4043/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004890_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>主编 Editor-in-Chief</strong></td>
+<td align="right">卢安银 Lu An Yin</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">政协揭阳市榕城区第二届委员会 The Second Committee of the CPPCC Jieyang City Rongcheng District</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1999</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-165044-31.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004890</td>
 </tr>
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
@@ -7040,75 +7040,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A4054 梅州文史 第6辑 何如璋专辑</title>
-    <url>//A4054/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004948_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">地方文史 Local History</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">梅州市政协文史资料委员会、大埔何如璋研究会 Meizhou Municipal Committee of the Chinese People’s Political Consultative Conference, Cultural and Historical Materials Committee, Dapu He Ruozhang Research Association</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">梅州市政协文史资料委员会、大埔何如璋研究会 Meizhou Municipal Committee of the Chinese People’s Political Consultative Conference, Cultural and Historical Materials Committee, Dapu He Ruozhang Research Association</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1992</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right">N.A.</td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL004948</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>地方文史</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A4053 第九届国际潮团联谊年会 马来西亚潮州公会联合会代表团名册</title>
     <url>//A4053/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004919_WM.jpg" width="50%" height="50%" />
@@ -7178,75 +7109,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A4055 普宁人应该爱普宁</title>
-    <url>//A4055/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005263_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">文献 Document</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">陈克修 Chen Kexiu</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">N.A.</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1986</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-172434-10.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005263</td>
-</tr>
-<tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>文献</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A4056 潮汕历史文化研究中心资料库藏书叙录 (续编一)</title>
     <url>//A4056/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005290_WM.jpg" width="50%" height="50%" />
@@ -7313,6 +7175,75 @@
       </categories>
       <tags>
         <tag>索引</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A4054 梅州文史 第6辑 何如璋专辑</title>
+    <url>//A4054/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL004948_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">地方文史 Local History</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">梅州市政协文史资料委员会、大埔何如璋研究会 Meizhou Municipal Committee of the Chinese People’s Political Consultative Conference, Cultural and Historical Materials Committee, Dapu He Ruozhang Research Association</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">梅州市政协文史资料委员会、大埔何如璋研究会 Meizhou Municipal Committee of the Chinese People’s Political Consultative Conference, Cultural and Historical Materials Committee, Dapu He Ruozhang Research Association</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1992</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right">N.A.</td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL004948</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>地方文史</tag>
       </tags>
   </entry>
   <entry>
@@ -7454,9 +7385,78 @@
       </tags>
   </entry>
   <entry>
-    <title>A4060 潮汕历史文化研究中心资料库藏书叙录 下</title>
-    <url>//A4060/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005294_WM.jpg" width="50%" height="50%" />
+    <title>A4055 普宁人应该爱普宁</title>
+    <url>//A4055/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005263_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">文献 Document</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">陈克修 Chen Kexiu</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">N.A.</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1986</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-172434-10.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL005263</td>
+</tr>
+<tr>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>文献</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A4061 潮汕文献书目</title>
+    <url>//A4061/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005295_WM.jpg" width="50%" height="50%" />
 
 <span id="more"></span>
 
@@ -7486,20 +7486,20 @@
 <td align="right">索引 Index</td>
 </tr>
 <tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">潮汕历史文化研究中心资料征集委员会 Chaoshan History and Culture Research Center Data Collection Committee</td>
+<td align="left"><strong>主编 Editor-in-Chief</strong></td>
+<td align="right">林汉存 Lin Hancun</td>
 </tr>
 <tr>
 <td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">潮汕历史文化研究中心资料征集委员会 Chaoshan History and Culture Research Center Data Collection Committee</td>
+<td align="right">广东人民出版社 Guangdong People’s Publishing House</td>
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2000</td>
+<td align="right">1994</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-174822-49.pdf">点击查阅 Click to view</a></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-175251-14.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -7507,11 +7507,11 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005294</td>
+<td align="right">YKL005295</td>
 </tr>
 <tr>
-<td align="left"><strong>备注 Remarks</strong></td>
-<td align="right">N.A.</td>
+<td align="left"><strong>国际标准书号 ISBN</strong></td>
+<td align="right">7-218-01392-9</td>
 </tr>
 </tbody></table>
 </div>]]></content>
@@ -7592,79 +7592,9 @@
       </tags>
   </entry>
   <entry>
-    <title>A4062 林大钦集</title>
-    <url>//A4062/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005299_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">潮籍人物 Teochew People、文献 Document</td>
-</tr>
-<tr>
-<td align="left"><strong>作者 Author(s)</strong></td>
-<td align="right">林大钦 Lin Daqing、黄挺 Huang Ting</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">广东人民出版社 Guangdong People’s Publishing House</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1995</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250210-103355-80.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005299</td>
-</tr>
-<tr>
-<td align="left"><strong>国际标准书号 ISBN</strong></td>
-<td align="right">7-218-00831-3</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>潮籍人物</tag>
-        <tag>文献</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A4061 潮汕文献书目</title>
-    <url>//A4061/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005295_WM.jpg" width="50%" height="50%" />
+    <title>A4060 潮汕历史文化研究中心资料库藏书叙录 下</title>
+    <url>//A4060/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005294_WM.jpg" width="50%" height="50%" />
 
 <span id="more"></span>
 
@@ -7694,20 +7624,20 @@
 <td align="right">索引 Index</td>
 </tr>
 <tr>
-<td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">林汉存 Lin Hancun</td>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">潮汕历史文化研究中心资料征集委员会 Chaoshan History and Culture Research Center Data Collection Committee</td>
 </tr>
 <tr>
 <td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">广东人民出版社 Guangdong People’s Publishing House</td>
+<td align="right">潮汕历史文化研究中心资料征集委员会 Chaoshan History and Culture Research Center Data Collection Committee</td>
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1994</td>
+<td align="right">2000</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-175251-14.pdf">点击查阅 Click to view</a></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250207-174822-49.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -7715,11 +7645,11 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005295</td>
+<td align="right">YKL005294</td>
 </tr>
 <tr>
-<td align="left"><strong>国际标准书号 ISBN</strong></td>
-<td align="right">7-218-01392-9</td>
+<td align="left"><strong>备注 Remarks</strong></td>
+<td align="right">N.A.</td>
 </tr>
 </tbody></table>
 </div>]]></content>
@@ -7800,6 +7730,76 @@
       </tags>
   </entry>
   <entry>
+    <title>A4062 林大钦集</title>
+    <url>//A4062/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005299_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">潮籍人物 Teochew People、文献 Document</td>
+</tr>
+<tr>
+<td align="left"><strong>作者 Author(s)</strong></td>
+<td align="right">林大钦 Lin Daqing、黄挺 Huang Ting</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">广东人民出版社 Guangdong People’s Publishing House</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1995</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250210-103355-80.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL005299</td>
+</tr>
+<tr>
+<td align="left"><strong>国际标准书号 ISBN</strong></td>
+<td align="right">7-218-00831-3</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>潮籍人物</tag>
+        <tag>文献</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A4064 潮汕金石文征 (宋元卷)</title>
     <url>//A4064/</url>
     <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005301_WM.jpg" width="50%" height="50%" />
@@ -7866,75 +7866,6 @@
       </categories>
       <tags>
         <tag>文献</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A4066 汕头市图书馆潮汕文献书目</title>
-    <url>//A4066/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005304_WM.jpg" width="50%" height="50%" />
-
-<span id="more"></span>
-
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<p align="center"><font face="" size=2.></font></p>
-
-<div class="center">
-
-<table>
-<thead>
-<tr>
-<th align="left"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>分类 Catagory</strong></td>
-<td align="right">索引 Index</td>
-</tr>
-<tr>
-<td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">郑可因 Zheng Keyin</td>
-</tr>
-<tr>
-<td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">花城出版社 Hua Cheng Publishing House</td>
-</tr>
-<tr>
-<td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">2001</td>
-</tr>
-<tr>
-<td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250210-110138-17.pdf">点击查阅 Click to view</a></td>
-</tr>
-<tr>
-<td align="left"><strong>位置 Location</strong></td>
-<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
-</tr>
-<tr>
-<td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005304</td>
-</tr>
-<tr>
-<td align="left"><strong>国际标准书号 ISBN</strong></td>
-<td align="right">7-5360-3519-5</td>
-</tr>
-</tbody></table>
-</div>]]></content>
-      <categories>
-        <category>A4</category>
-      </categories>
-      <tags>
-        <tag>索引</tag>
       </tags>
   </entry>
   <entry>
@@ -8009,9 +7940,9 @@
       </tags>
   </entry>
   <entry>
-    <title>A4068 韩愈年谱及诗文系年</title>
-    <url>//A4068/</url>
-    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005327_WM.jpg" width="50%" height="50%" />
+    <title>A4066 汕头市图书馆潮汕文献书目</title>
+    <url>//A4066/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005304_WM.jpg" width="50%" height="50%" />
 
 <span id="more"></span>
 
@@ -8042,19 +7973,19 @@
 </tr>
 <tr>
 <td align="left"><strong>主编 Editor-in-Chief</strong></td>
-<td align="right">陈克明 Chen Keming</td>
+<td align="right">郑可因 Zheng Keyin</td>
 </tr>
 <tr>
 <td align="left"><strong>出版机构 Publisher</strong></td>
-<td align="right">巴蜀书舍 Ba Shu Shu She</td>
+<td align="right">花城出版社 Hua Cheng Publishing House</td>
 </tr>
 <tr>
 <td align="left"><strong>出版时间 Year of Publication</strong></td>
-<td align="right">1999</td>
+<td align="right">2001</td>
 </tr>
 <tr>
 <td align="left"><strong>目录 Content Page</strong></td>
-<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250210-110905-71.pdf">点击查阅 Click to view</a></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250210-110138-17.pdf">点击查阅 Click to view</a></td>
 </tr>
 <tr>
 <td align="left"><strong>位置 Location</strong></td>
@@ -8062,11 +7993,11 @@
 </tr>
 <tr>
 <td align="left"><strong>中心编码 Centre Barcode</strong></td>
-<td align="right">YKL005327</td>
+<td align="right">YKL005304</td>
 </tr>
 <tr>
 <td align="left"><strong>国际标准书号 ISBN</strong></td>
-<td align="right">7-80523-736-0</td>
+<td align="right">7-5360-3519-5</td>
 </tr>
 </tbody></table>
 </div>]]></content>
@@ -8205,6 +8136,75 @@
 <tr>
 <td align="left"><strong>备注 Remarks</strong></td>
 <td align="right">N.A.</td>
+</tr>
+</tbody></table>
+</div>]]></content>
+      <categories>
+        <category>A4</category>
+      </categories>
+      <tags>
+        <tag>索引</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A4068 韩愈年谱及诗文系年</title>
+    <url>//A4068/</url>
+    <content><![CDATA[<img src="https://raw.githubusercontent.com/yeokheelimtcrc/Image-Hosting/main/YKL005327_WM.jpg" width="50%" height="50%" />
+
+<span id="more"></span>
+
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<p align="center"><font face="" size=2.></font></p>
+
+<div class="center">
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="right"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>分类 Catagory</strong></td>
+<td align="right">索引 Index</td>
+</tr>
+<tr>
+<td align="left"><strong>主编 Editor-in-Chief</strong></td>
+<td align="right">陈克明 Chen Keming</td>
+</tr>
+<tr>
+<td align="left"><strong>出版机构 Publisher</strong></td>
+<td align="right">巴蜀书舍 Ba Shu Shu She</td>
+</tr>
+<tr>
+<td align="left"><strong>出版时间 Year of Publication</strong></td>
+<td align="right">1999</td>
+</tr>
+<tr>
+<td align="left"><strong>目录 Content Page</strong></td>
+<td align="right"><a href="https://a.data96.com/pdf?url=https://alist-data96.oss-cn-shanghai.aliyuncs.com/20250210-110905-71.pdf">点击查阅 Click to view</a></td>
+</tr>
+<tr>
+<td align="left"><strong>位置 Location</strong></td>
+<td align="right"><a href="https://yeokheelimtcrc.github.io/categories/A4/">A4</a></td>
+</tr>
+<tr>
+<td align="left"><strong>中心编码 Centre Barcode</strong></td>
+<td align="right">YKL005327</td>
+</tr>
+<tr>
+<td align="left"><strong>国际标准书号 ISBN</strong></td>
+<td align="right">7-80523-736-0</td>
 </tr>
 </tbody></table>
 </div>]]></content>
