@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>Oral History Collection of Nam Hwa Opera · 南华口述史档案</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #fdfdfd;
+      color: #111;
+      line-height: 1.8;
+      scroll-behavior: smooth;
+    }
+    header {
+      text-align: center;
+      padding: 80px 20px 40px;
+      background: linear-gradient(270deg, #fff, #f5f5f7, #eaeaea);
+      background-size: 600% 600%;
+      animation: gradientMove 12s ease infinite;
+    }
+    @keyframes gradientMove {
+      0% {background-position:0% 50%}
+      50% {background-position:100% 50%}
+      100% {background-position:0% 50%}
+    }
+    header h1 {
+      font-size: 2.6em;
+      font-weight: 600;
+      margin: 0;
+      animation: fadeIn 2s ease forwards;
+    }
+    header h2 {
+      font-size: 1.4em;
+      font-weight: 400;
+      color: #555;
+      margin-top: 10px;
+      opacity: 0;
+      animation: fadeIn 3s ease forwards;
+    }
+    section {
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 0 40px;
+      opacity: 0;
+      transform: translateY(40px);
+      transition: all 1s ease;
+    }
+    section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    section h2 {
+      font-size: 2em;
+      font-weight: 600;
+      margin-bottom: 20px;
+      color: #000;
+    }
+    p {
+      font-size: 1.1em;
+      margin: 15px 0;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+    .card {
+      background: #f5f5f7;
+      padding: 15px;
+      border-radius: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 40px;
+      background: #f5f5f7;
+      font-size: 0.95em;
+      color: #555;
+    }
+    @keyframes fadeIn {
+      from {opacity:0; transform:translateY(20px);}
+      to {opacity:1; transform:translateY(0);}
+    }
+    .qr {
+      text-align: center;
+      margin-top: 40px;
+    }
+    .qr img {
+      width: 160px;
+      height: 160px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Oral History Collection of Nam Hwa Opera</h1>
+  <h2>南华口述史档案</h2>
+</header>
+
+<section>
+  <h2>About Project</h2>
+  <p>
+    OHC’s collaboration with Nam Hwa Opera Ltd started from Dec 2017 and ended in July 2019 with a total of 74 interviews (except one interview still in progress), 45.5hours of recording. The content of the interviews is on the history of Nam Hwa Opera and/or Teochew Opera in Singapore. The interviews collected have been used in Nam Hwa's 55th Anniversary publication “Imprints in Time: The History of Teochew Opera in Singapore” and a four-part documentary “Evolving from Tradition, Unceasing Arias”.
+  </p>
+</section>
+
+<section>
+  <h2>Interviewees</h2>
+  <div class="grid">
+    <div class="card"><a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/E000865">1. ANG Chai Soon</a></div>
+    <div class="card">2. Ang, Chin Koon 洪振群</div>
+    <div class="card">3. Bay, Siew Poh 马秀宝</div>
+    <div class="card">4. Cai, Hedi</div>
+    <div class="card">5. Chan, Kok Hua 曾国和</div>
+    <div class="card">6. Chan, Koon Pit</div>
+    <div class="card">7. Chen, Yuhang 陈钰杭</div>
+    <div class="card">8. Chen, Yuzhi 陈玉芝</div>
+    <div class="card">9. Chia, Cher Phuang 谢子藩</div>
+    <div class="card">10. Chia, Chor Meng 谢楚明</div>
+    <!-- 继续添加所有名单 -->
+    <div class="card">72. Toh, Lim Mok 卓林茂</div>
+    <div class="card">73. Yap, Buck Eng 叶木英</div>
+  </div>
+</section>
+
+<section class="qr">
+  <h2><a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/browse-project-interviewee/320#interviewee5383-interviews">Learn More</a></h2>
+  <p>例：卓林茂社长<br>SCAN THE QR CODE BELOW TO LEARN MORE<br>LANGUAGE: MANDARIN</p>
+  <img src="https://s2.loli.net/2026/01/12/ZlHshvFNP25aXDo.png" alt="QR Code">
+</section>
+
+<footer>
+  © Nam Hwa Opera · Oral History Collection
+</footer>
+
+<script>
+  // 滚动淡入效果
+  const sections = document.querySelectorAll("section");
+  const revealOnScroll = () => {
+    const triggerBottom = window.innerHeight * 0.85;
+    sections.forEach(sec => {
+      const boxTop = sec.getBoundingClientRect().top;
+      if(boxTop < triggerBottom){
+        sec.classList.add("visible");
+      }
+    });
+  };
+  window.addEventListener("scroll", revealOnScroll);
+  revealOnScroll();
+</script>
+
+</body>
+</html>
